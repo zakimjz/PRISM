@@ -24,7 +24,7 @@ also produces a XXX.conf file automatically.
 
 The format of the binary file should be 
 
-    \<cid\> \<tid\> \<numitem\> \<item list\>
+    <cid> <tid> <numitem> <item list>
 
 run gen seq -help for data generation options.
 
